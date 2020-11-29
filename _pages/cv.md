@@ -25,14 +25,22 @@ Work experience
   
 Skills
 ======
-* 
+* Languages
+  * Hindi
+  * Bengali
+  * English
 * Programming
   * C++, C
   * Python
   * Matlab
   * Latex
   * Gnu Radio
-* 
+  
+Fields of interest
+======
+* Machine Learning & AI
+* Optimization
+* Wireless Communication
 
   
 Service and leadership
@@ -40,6 +48,5 @@ Service and leadership
 * Mess coordinator at Hostel-4 (2019-20)
 * Placement volunteer IITB 2019
 * 2nd prize at MDGC 2019
-* Hostel-4 special mention award
-* Teqip
-* 
+* Hostel-4 Organization Special Mention Award 2020
+* TEQIP Volunteer

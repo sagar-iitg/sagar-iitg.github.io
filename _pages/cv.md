@@ -58,7 +58,8 @@ Relevant Courses
 
 Extra- curricular Activities
 ======
-* Self Projects : (mention 3 projects)
+* Self Projects |
+  * (one) | (two) | (three)
 * 2nd prize, MDGC 2019
 * Special Mention Award,Hostel Organization 2020
 
@@ -72,10 +73,10 @@ Work experience
 
 Skills
 ======
-* Languages
+* Languages |
   * Hindi, English, Bengali
 
-* Programming
+* Programming |
   * C++, Python, Matlab, LaTex, Gnu Radio
   
 

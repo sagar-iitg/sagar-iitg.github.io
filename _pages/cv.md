@@ -115,6 +115,7 @@ Changes
 * Links to wherever possible, medium articles
 * competitive coding some prize
 * CPP Snippets for self-learning
+* Improve cv : notability points, batchmates cv, my points in overleaf, me_notes
 
 
   

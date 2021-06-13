@@ -33,6 +33,7 @@ Major Projects
 
 Course Projects
 ======
+* FML assignments
 * Facial Emotion Recognition using Deep Learning
 * Image processing assignments
 * Image Processing Project
@@ -47,12 +48,6 @@ Research Projects
 
 <!-- Other Projects 
 ====== -->
-
-Online Courses
-======
-* Deep learning Specialization, Andrew NG
-* Mimo 5G, Aditya Jagannatham
-
 Publication
 ======
 <!-- * @misc{narayana2021online,
@@ -64,6 +59,12 @@ Publication
       primaryClass={cs.NI}
 } -->
 * Online Partial Service Hosting at the Edge, V S Ch Lakshmi Narayana and Mohit Agarwala and Nikhil Karamchandani and Sharayu Moharir
+
+
+Online Courses
+======
+* Deep learning Specialization, Andrew NG
+* Mimo 5G, Aditya Jagannatham
 
 Internships & Summer Projects
 ======

@@ -97,13 +97,14 @@ Extra- curricular Activities
 ======
 * Self Projects |
   * (one) | (two) | (three)
-* 2nd prize, MDGC 2019
+* 2nd prize, Hostel MDGC 2019
 * Special Mention Award,Hostel Organization 2020
 
 
 Skills
 ======
 * Languages : | Hindi, English, Bengali
-* Programming : | C++, Python, Matlab, LaTex, Gnu Radio
+* Programming : | C, C++, Python
+* Tools and Software : | Pytorch, TensorFlow, Matlab, LaTex, Gnu Radio
   
 

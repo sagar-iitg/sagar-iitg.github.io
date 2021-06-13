@@ -18,7 +18,7 @@ Education
 
 Areas of interest
 ======
-* Machine Learning, Deep Learning, Optimization, Wireless Communication, Image Processing, Speech Processing
+* Machine Learning | Deep Learning | Optimization | Wireless Communication | Image Processing | Speech Processing
 
 Scholastic Achievements
 ======
@@ -34,14 +34,15 @@ Course Projects
 
 Publication
 ======
-* @misc{narayana2021online,
+<!-- * @misc{narayana2021online,
       title={Online Partial Service Hosting at the Edge}, 
       author={V S Ch Lakshmi Narayana and Mohit Agarwala and Nikhil Karamchandani and Sharayu Moharir},
       year={2021},
       eprint={2103.00555},
       archivePrefix={arXiv},
       primaryClass={cs.NI}
-}
+} -->
+* Online Partial Service Hosting at the Edge, V S Ch Lakshmi Narayana and Mohit Agarwala and Nikhil Karamchandani and Sharayu Moharir
 
 Positions of Responsibility
 ======
@@ -51,9 +52,9 @@ Positions of Responsibility
 
 Relevant Courses
 ======
-* Statistical Signal Analysis, Optimization, Real Analysis
-* Machine Learning, Image Processing, Automatic Speech Processing
-* Digital Signal processing, Digital Message Transmission, Wireless and Mobile Communication
+* Statistical Signal Analysis | Optimization | Real Analysis
+* Machine Learning | Image Processing | Automatic Speech Processing
+* Digital Signal processing | Digital Message Transmission | Wireless and Mobile Communication
 * Communication Networks
 
 Extra- curricular Activities

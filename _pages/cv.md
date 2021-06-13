@@ -39,6 +39,7 @@ Course Projects
 * Image Processing Project
 * ASR assignments
 * Speech to Sign Language for the hearing and speech Impaired using Deep Learning
+* Summer Project under RajBabu Sir
 
 Research Projects
 ======
@@ -59,7 +60,7 @@ Publication
       archivePrefix={arXiv},
       primaryClass={cs.NI}
 } -->
-* Online Partial Service Hosting at the Edge, V S Ch Lakshmi Narayana and Mohit Agarwala and Nikhil Karamchandani and Sharayu Moharir
+* (ICCCN 2021) Online Partial Service Hosting at the Edge, V S Ch Lakshmi Narayana and Mohit Agarwala and Nikhil Karamchandani and Sharayu Moharir
 
 
 Online Courses
@@ -87,7 +88,7 @@ Relevant Courses
 * Statistical Signal Analysis | Optimization | Real Analysis
 * Machine Learning | Image Processing | Automatic Speech Processing
 * Digital Signal processing | Digital Message Transmission | Wireless and Mobile Communication
-* Communication Networks |
+* Communication Networks | AML
 
 
 <!-- Work experience

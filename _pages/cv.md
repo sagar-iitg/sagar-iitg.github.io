@@ -41,7 +41,7 @@ Course Projects
 Research Projects
 ======
 * GeoLife Trajectory Data Analysis
-* Online Partial Service Caching at the Edge
+* Content Caching and delivery over Wireless Networks
 * Graph Machine Learning Algorithms
 
 Other Projects 

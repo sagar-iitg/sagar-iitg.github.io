@@ -36,6 +36,7 @@ Course Projects
 * Facial Emotion Recognition using Deep Learning
 * Image processing assignments
 * Image Processing Project
+* ASR assignments
 * Speech to Sign Language for the hearing and speech Impaired using Deep Learning
 
 Research Projects

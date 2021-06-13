@@ -18,19 +18,39 @@ Education
 
 Areas of interest
 ======
-* Machine Learning | Deep Learning | Optimization | Wireless Communication | Image Processing | Speech Processing
+* Machine Learning | Deep Learning | Optimization | Decision-Making | Wireless Communication | Image Processing | Speech Processing 
 
 Scholastic Achievements
 ======
-* 
+* Secured 99. percentile in Gate-2019
+* AA in seminaar
 
 Major Projects
 ======
-*
+* MTech Thesis Project | QoS implemention in a complete wireless environment
+* Seminaar | High Throughput Low Latency Applications in a wireless environment 
+* Btech Project | Attrition Classification
 
 Course Projects
 ======
-*
+* Facial Emotion Recognition using Deep Learning
+* Image processing assignments
+* Image Processing Project
+* Speech to Sign Language for the hearing and speech Impaired using Deep Learning
+
+Research Projects
+======
+* GeoLife Trajectory Data Analysis
+* Online Partial Service Caching at the Edge
+* Graph Machine Learning Algorithms
+
+Other Projects 
+======
+
+Online Courses
+======
+* Deep learning Specialization, Andrew NG
+* Mimo 5G, Aditya Jagannatham
 
 Publication
 ======
@@ -44,6 +64,12 @@ Publication
 } -->
 * Online Partial Service Hosting at the Edge, V S Ch Lakshmi Narayana and Mohit Agarwala and Nikhil Karamchandani and Sharayu Moharir
 
+Internships & Summer Projects
+======
+* State of the Art Micro-controller, IIT Kgp
+* All India Radio Internship
+* Xesp, kolkata
+
 Positions of Responsibility
 ======
 * Mess coordinator, Hostel-4 (2019-20)
@@ -55,7 +81,7 @@ Relevant Courses
 * Statistical Signal Analysis | Optimization | Real Analysis
 * Machine Learning | Image Processing | Automatic Speech Processing
 * Digital Signal processing | Digital Message Transmission | Wireless and Mobile Communication
-* Communication Networks
+* Communication Networks |
 
 Extra- curricular Activities
 ======

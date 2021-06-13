@@ -44,8 +44,8 @@ Research Projects
 * Content Caching and delivery over Wireless Networks
 * Graph Machine Learning Algorithms
 
-Other Projects 
-======
+<!-- Other Projects 
+====== -->
 
 Online Courses
 ======
@@ -83,19 +83,19 @@ Relevant Courses
 * Digital Signal processing | Digital Message Transmission | Wireless and Mobile Communication
 * Communication Networks |
 
-Extra- curricular Activities
-======
-* Self Projects |
-  * (one) | (two) | (three)
-* 2nd prize, MDGC 2019
-* Special Mention Award,Hostel Organization 2020
-
 
 Work experience
 ======
 * Project Research Assistant | Stochastic & Systems Lab, Electrical Department, IIT Bombay
   * Duties included: Working on different projects 
   * Supervisor: Professor Nikhil Karamchandani, Professor Sharayu Moharir 
+
+Extra- curricular Activities
+======
+* Self Projects |
+  * (one) | (two) | (three)
+* 2nd prize, MDGC 2019
+* Special Mention Award,Hostel Organization 2020
 
 
 Skills

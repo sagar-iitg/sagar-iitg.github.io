@@ -27,9 +27,9 @@ Scholastic Achievements
 
 Major Projects
 ======
-* MTech Thesis Project | QoS implemention in a complete wireless environment
-* Seminaar | High Throughput Low Latency Applications in a wireless environment 
-* Btech Project | Attrition Classification
+* MTech Thesis Project : QoS implemention in a complete wireless environment
+* Seminaar : High Throughput Low Latency Applications in a wireless environment 
+* Btech Project : Attrition Classification
 
 Course Projects
 ======

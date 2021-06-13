@@ -73,10 +73,7 @@ Work experience
 
 Skills
 ======
-* Languages |
-  * Hindi, English, Bengali
-
-* Programming |
-  * C++, Python, Matlab, LaTex, Gnu Radio
+* Languages : | Hindi, English, Bengali
+* Programming : | C++, Python, Matlab, LaTex, Gnu Radio
   
 

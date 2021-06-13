@@ -26,11 +26,11 @@ Scholastic Achievements
 
 Major Projects
 ======
-
+*
 
 Course Projects
 ======
-
+*
 
 Publication
 ======

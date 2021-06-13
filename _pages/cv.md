@@ -93,8 +93,8 @@ Extra- curricular Activities
 
 Work experience
 ======
-* Research Assistant | Stochastic & Systems Lab, Electrical Department, IIT Bombay
-  * Duties included: Working on a project titled "Content caching and delivery over wireless networks"
+* Project Research Assistant | Stochastic & Systems Lab, Electrical Department, IIT Bombay
+  * Duties included: Working on different projects 
   * Supervisor: Professor Nikhil Karamchandani, Professor Sharayu Moharir 
 
 

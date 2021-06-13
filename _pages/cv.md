@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Tech in ECE, HITK, 2018
 * M.Tech in Communication & Signal Processing, IIT-B, 2019- present
+* B.Tech in ECE, HITK, 2018
+* 12th from D.A.V Public School, Midnapore
+* 10th from Splendour High School, Kharagpur
 
 Work experience
 ======
@@ -22,31 +24,22 @@ Work experience
   * Supervisor: Professor Nikhil Karamchandani, Professor Sharayu Moharir 
 
 
-  
 Skills
 ======
 * Languages
-  * Hindi
-  * Bengali
-  * English
+  * Hindi, English, Bengali
+
 * Programming
-  * C++, C
-  * Python
-  * Matlab
-  * Latex
-  * Gnu Radio
+  * C++, Python, Matlab, LaTex, Gnu Radio
   
 Fields of interest
 ======
-* Machine Learning & AI
-* Optimization
-* Wireless Communication
+* Machine Learning, Deep Learning, Optimization, Wireless Communication, Image Processing, Speech Processing
 
   
 Service and leadership
 ======
-* Mess coordinator at Hostel-4 (2019-20)
-* Placement volunteer IITB 2019
-* 2nd prize at MDGC 2019
-* Hostel-4 Organization Special Mention Award 2020
-* TEQIP Volunteer
+* Mess coordinator, Hostel-4 (2019-20)
+* Placement Co-ordinator, IITB 2019
+* 2nd prize, MDGC 2019
+* Organization Special Mention Award, Hostel-4 2020

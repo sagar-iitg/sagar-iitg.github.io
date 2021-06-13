@@ -22,7 +22,7 @@ Areas of interest
 
 Scholastic Achievements
 ======
-* Secured 99. percentile in Gate-2019
+* Secured 99.86 percentile in Gate-2019
 * AA in seminaar
 
 Major Projects

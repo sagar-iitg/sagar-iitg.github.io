@@ -75,7 +75,7 @@ Internships & Summer Projects
 
 Positions of Responsibility
 ======
-* Project Research Assistant | Stochastic & Systems Lab, Electrical Department, IIT Bombay
+* Project Research Assistant : Stochastic & Systems Lab, Electrical Department, IIT Bombay
   * Duties included: Working on different projects 
   * Supervisor: Professor Nikhil Karamchandani, Professor Sharayu Moharir 
 * Mess coordinator, Hostel-4 (2019-20)

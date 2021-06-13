@@ -13,8 +13,8 @@ Education
 ======
 * M.Tech in Communication & Signal Processing, IIT-B, 2019- present
 * B.Tech in ECE, HITK, 2018
-* 12th from D.A.V Public School, Midnapore
-* 10th from Splendour High School, Kharagpur
+* Intermediate, Science, D.A.V Public School, Midnapore
+* Matriculation, Splendour High School, Kharagpur
 
 Areas of interest
 ======
@@ -22,7 +22,7 @@ Areas of interest
 
 Scholastic Achievements
 ======
-
+* 
 
 Major Projects
 ======

@@ -106,5 +106,6 @@ Skills
 * Languages : | Hindi, English, Bengali
 * Programming : | C, C++, Python
 * Tools and Software : | Pytorch, TensorFlow, Matlab, LaTex, Gnu Radio
+* Interests & Hobbies : Play sports, Mentoring, Music
   
 

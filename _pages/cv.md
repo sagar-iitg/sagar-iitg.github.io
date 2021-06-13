@@ -95,7 +95,7 @@ Work experience
 
 Extra- curricular Activities
 ======
-* Self Projects |
+* Self Projects
   * Twitter Api | Face Recognition using Eigenfaces | Kafka_Streamlit | Motion Detection and Tracking | Include from Assignments
 * 2nd prize, Hostel MDGC 2019
 * Special Mention Award,Hostel Organization 2020

@@ -89,7 +89,7 @@ Relevant Courses
 * Statistical Signal Analysis | Optimization | Real Analysis
 * Machine Learning | Image Processing | Automatic Speech Processing
 * Digital Signal processing | Digital Message Transmission | Wireless and Mobile Communication
-* Communication Networks | AML
+* Communication Networks | AML(AA)
 
 
 <!-- Work experience

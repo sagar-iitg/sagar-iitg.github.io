@@ -27,7 +27,7 @@ Scholastic Achievements
 
 Major Projects
 ======
-* MTech Thesis Project : QoS implemention in a complete wireless environment
+* MTech Thesis Project : QoS implemention in a complete wireless environment, aptitude, cCoding
 * Seminaar : High Throughput Low Latency Applications in a wireless environment 
 * Btech Project : Attrition Classification
 
@@ -39,6 +39,7 @@ Course Projects
 * Image Processing Project
 * ASR assignments
 * Speech to Sign Language for the hearing and speech Impaired using Deep Learning
+* comm net assignment
 * Summer Project under RajBabu Sir
 
 Research Projects

@@ -15,3 +15,6 @@ My subjects of interests are Mathematics, Machine Learning, Deep Learning and St
 Apart from academics i enjoy watching TV series, cricket and i like to play badminton and table tennis. 
 
 For more details, [Resume](https://mohit-iitb.github.io/cv/)
+
+Reading materials :
+1. [CPP snippets](https://docs.google.com/document/d/1vqOmUQLjMNSWtA2sj3320rrJb-eU53br9P6kYgB2Fgw/edit?usp=sharing)

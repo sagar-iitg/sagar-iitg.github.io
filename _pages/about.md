@@ -20,3 +20,4 @@ Reading materials :
 1. [CPP snippets](https://docs.google.com/document/d/1vqOmUQLjMNSWtA2sj3320rrJb-eU53br9P6kYgB2Fgw/edit?usp=sharing)
 2. [Linux commands](https://docs.google.com/document/d/1LqXZi_tfDFLgTGCawRm7t7PSSc-XgfItKZgRA9kOi2c/edit?usp=sharing)
 3. [Git basics](https://docs.google.com/document/d/1tFNbIYvuYCqrobKvcDuVrcfnsQtUtzg3Lz3mIJmbszw/edit?usp=sharing)
+4. [Mathematics for CS](https://drive.google.com/file/d/1hpOhNSDPqEI9rgZWZIcOEUS2uAO9i842/view?usp=sharing)

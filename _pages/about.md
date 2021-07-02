@@ -10,7 +10,7 @@ redirect_from:
 
 Currently pursuing Master's in CSP from IIT Bombay. I did my Btech from HIT, Kolkata and my hometown is kharagpur.
 
-My subjects of interests are Mathematics, Machine Learning, Deep Learning and Stats. With applications in Wireless communications, Artificial intelligence and Decision making.
+My subjects of interests are Mathematics, Machine Learning, Deep Learning and Statistics. With applications in Wireless communications, Artificial intelligence and Decision making.
 
 Apart from academics i enjoy watching TV series, cricket and i like to play badminton and table tennis. 
 

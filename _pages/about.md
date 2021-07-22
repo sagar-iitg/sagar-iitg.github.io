@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently pursuing Master's in CSP from IIT Bombay. I did my Btech from HIT, Kolkata and my hometown is kharagpur.
+Currently pursuing Master's in CSP from IIT Bombay. I did my Btech from Heritage Institute of Technology, Kolkata and my hometown is Kharagpur.
 
 My subjects of interests are Mathematics, Machine Learning, Deep Learning and Statistics. With applications in Wireless communications, Artificial intelligence and Decision making.
 

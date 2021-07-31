@@ -16,7 +16,7 @@ Apart from academics i enjoy watching TV series, cricket and i like to play badm
 
 <!-- [Resume draft 2.0](http://mohit-iitb.github.io/files/19307R004-4.pdf) \\ -->
 <!-- [Resume draft 1.0](http://mohit-iitb.github.io/files/mohit_wireless_2page.pdf) \\ -->
-[Resume](http://mohit-iitb.github.io/files/19307R004-mock2.pdf)
+[Resume](http://mohit-iitb.github.io/files/19307R004-mock3.pdf)
 
 
 <!-- For more details, [Resume](https://mohit-iitb.github.io/cv/), [PDF](https://www.overleaf.com/read/mzcjycttqgdq)

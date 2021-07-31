@@ -14,8 +14,9 @@ My subjects of interests are Mathematics, Machine Learning, Deep Learning and St
 
 Apart from academics i enjoy watching TV series, cricket and i like to play badminton and table tennis. 
 
-[Resume draft 2.0](http://mohit-iitb.github.io/files/19307R004-4.pdf) \\
-[Resume draft 1.0](http://mohit-iitb.github.io/files/mohit_wireless_2page.pdf) \\
+<!-- [Resume draft 2.0](http://mohit-iitb.github.io/files/19307R004-4.pdf) \\ -->
+<!-- [Resume draft 1.0](http://mohit-iitb.github.io/files/mohit_wireless_2page.pdf) \\ -->
+[Resume](http://mohit-iitb.github.io/files/19307R004-mock.pdf) \\
 
 
 <!-- For more details, [Resume](https://mohit-iitb.github.io/cv/), [PDF](https://www.overleaf.com/read/mzcjycttqgdq)

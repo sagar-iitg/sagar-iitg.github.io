@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Currently pursuing Master's in CSP from IIT Bombay. I did my Btech from Heritage Institute of Technology, Kolkata and my hometown is Kharagpur.
+I am currently pursuing a Master's in Communication & Signal Processing from IIT Bombay. I completed my Bachelor's from Heritage Institute of Technology, Kolkata, and my hometown is Kharagpur.
 
-My subjects of interests are Mathematics, Machine Learning, Deep Learning and Statistics. With applications in Wireless communications, Artificial intelligence and Decision making.
+My subjects of interest are Mathematics, Machine Learning, Deep Learning, and Statistics. With applications in Wireless communications, Artificial intelligence, and Decision making.
 
-Apart from academics i enjoy watching TV series, cricket and i like to play badminton and table tennis. 
+Apart from academics, I enjoy watching TV series, cricket and I like to play badminton and table tennis.
 
 <!-- [Resume draft 2.0](http://mohit-iitb.github.io/files/19307R004-4.pdf) \\ -->
 <!-- [Resume draft 1.0](http://mohit-iitb.github.io/files/mohit_wireless_2page.pdf) \\ -->

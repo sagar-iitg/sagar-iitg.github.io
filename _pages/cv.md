@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -11,10 +11,10 @@ redirect_from:
 
 [CV]({{ site.url }}/files/internship_resume.pdf)
 
-(Updated January 2022)
+(Updated January 2022) -->
 
 
-<!-- ---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -64,19 +64,19 @@ Research Projects
 * Content Caching and delivery over Wireless Networks
 * Graph Machine Learning Algorithms
 
-<!-- Other Projects 
-====== -->
+Other Projects 
+======
 
 Publication
 ======
-<!-- * @misc{narayana2021online,
+ @misc{narayana2021online,
       title={Online Partial Service Hosting at the Edge}, 
       author={V S Ch Lakshmi Narayana and Mohit Agarwala and Nikhil Karamchandani and Sharayu Moharir},
       year={2021},
       eprint={2103.00555},
       archivePrefix={arXiv},
       primaryClass={cs.NI}
-} -->
+}
 * (ICCCN 2021) Online Partial Service Hosting at the Edge, V S Ch Lakshmi Narayana and Mohit Agarwala and Nikhil Karamchandani and Sharayu Moharir
 
 

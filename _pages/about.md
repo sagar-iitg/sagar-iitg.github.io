@@ -20,8 +20,11 @@ Apart from academics, I enjoy watching TV series, cricket and I like to play bad
 [Resume-ML](http://mohit-iitb.github.io/files/19307R004-ML_9aug.pdf) -->
 
 <!-- [Resume](http://mohit-iitb.github.io/files/index.html) -->
-[Resume](http://mohit-iitb.github.io/cv/)
+<!-- [Resume](http://mohit-iitb.github.io/cv/) -->
 <!-- [Resume](http://mohit-iitb.github.io/VerifiedResumes/19307R004-4.pdf) -->
+[Resume]({{ site.url }}/files/internship_resume.pdf)
+
+(Updated January 2022)
 
 
 <!-- For more details, [Resume](https://mohit-iitb.github.io/cv/), [PDF](https://www.overleaf.com/read/mzcjycttqgdq)

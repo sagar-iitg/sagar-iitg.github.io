@@ -14,7 +14,7 @@ redirect_from:
 (Updated January 2022) -->
 
 
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -23,7 +23,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} -->
 
 Education
 ======
@@ -133,8 +133,3 @@ Changes
 * competitive coding some prize
 * CPP Snippets for self-learning
 * Improve cv : notability points, batchmates cv, my points in overleaf, me_notes
-
-
-  
-
- -->

@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+[CV]({{ site.url }}/files/internship_resume.pdf)
+
+(Updated January 2022)
+
+
+<!-- ---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 Education
 ======
 * M.Tech in Communication & Signal Processing, IIT-B, 2019- present
@@ -121,3 +137,4 @@ Changes
 
   
 
+ -->

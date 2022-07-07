@@ -27,7 +27,7 @@ Apart from academics, I enjoy watching TV series, cricket and I like to play bad
 
 <!-- [Resume]({{ site.url }}/files/ML_resume_mohit.pdf)(long) -->
 <!-- [Resume]({{ site.url }}/files/final_resume_offcampus.pdf)(long) -->
-[Resume]({{ site.url }}/files/mohit_deeplearning.pdf)
+[Resume]({{ site.url }}/files/mohit_deepLearning.pdf)
 
 (Updated June 2022)
 

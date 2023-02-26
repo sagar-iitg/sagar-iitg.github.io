@@ -27,9 +27,9 @@ Apart from academics, I enjoy watching TV series, cricket and I like to play bad
 
 <!-- [Resume]({{ site.url }}/files/ML_resume_mohit.pdf)(long) -->
 <!-- [Resume]({{ site.url }}/files/final_resume_offcampus.pdf)(long) -->
-[Resume]({{ site.url }}/files/mohit_deepLearning.pdf)
+[Resume]({{ site.url }}/files/Mohit_Agarwala_Research_Engineer.pdf)
 
-(Updated June 2022)
+(Updated January 2023)
 
 
 <!-- For more details, [Resume](https://mohit-iitb.github.io/cv/), [PDF](https://www.overleaf.com/read/mzcjycttqgdq)

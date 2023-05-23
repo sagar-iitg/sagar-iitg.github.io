@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master's in Communication & Signal Processing from IIT Bombay. I completed my Bachelor's from Heritage Institute of Technology, Kolkata, and my hometown is Kharagpur.
+I am a Research Engineer at Ola, specializing in the perception aspect of self-driving cars. I hold a Master's degree in Communication & Signal Processing from IIT Bombay, with expertise in Deep Learning, Algorithms, and Wireless Networks. With a passion for leveraging technology to make a positive impact, I am dedicated to contributing to the advancement of the technology industry. 
 
 My subjects of interest are Mathematics, Machine Learning, Deep Learning, and Statistics. With applications in Wireless communications, Artificial intelligence, and Decision making.
 

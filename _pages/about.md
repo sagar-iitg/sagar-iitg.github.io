@@ -12,7 +12,8 @@ I am a Research Engineer at Ola, specializing in the perception aspect of self-d
 
 My subjects of interest are Mathematics, Machine Learning, Deep Learning, and Statistics. With applications in Wireless communications, Artificial intelligence, and Decision making.
 
-Apart from academics, I enjoy watching TV series, cricket and I like to play badminton and table tennis.
+<!-- Apart from academics, I love to travel. Also i enjoy watching TV series, cricket and I like to play badminton and table tennis. -->
+Apart from academics, I have a strong passion for traveling and exploring new places. In my leisure time, I find joy in watching TV series and following cricket. I also actively engage in playing badminton and table tennis, as they help me stay active and maintain a healthy lifestyle.
 
 <!-- [Resume draft 2.0](http://mohit-iitb.github.io/files/19307R004-4.pdf) \\ -->
 <!-- [Resume draft 1.0](http://mohit-iitb.github.io/files/mohit_wireless_2page.pdf) \\ -->

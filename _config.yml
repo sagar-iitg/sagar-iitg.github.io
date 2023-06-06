@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohit Agarwala"
+title                    : "Sagar Kumar"
 title_separator          : "-"
-name                     : &name "Mohit Agarwala"
-description              : &description "Mtech Research @ IITB"
-url                      : https://mohit-iitb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sagar Kumar"
+description              : &description "Mtech  @ IITG"
+url                      : https://sagar-iitg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mohit-iitb.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohit Agarwala"
-  avatar           : "mypic.jpg"
-  bio              : "Mtech, IITB"
-  location         : "Mumbai"
+  name             : "Sagar Kumar"
+  avatar           : "sk.jpg"
+  bio              : "Mtech, IITG"
+  location         : "Bangalore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mohit-iitb"
+  github           : "sagar-iitg"
   google_plus      :
   keybase          :
   instagram        :

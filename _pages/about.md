@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Engineer atrception aspect of self-driving cars. I hold a Master's degree in Communication & Signal Processing from IIT Bombay, with expertise in Deep Learning, Algorithms, and Wireless Networks. With a passion for leveraging technology to make a positive impact, I am dedicated to contributing to the advancement of the technology industry. 
+Hey, This is Sagar Kumar, a software engineer passionate about developing products ready applications while building and working with teams of software developers. 
 
-My subjects of interest are Mathematics, Machine Learning, Deep Learning, and Statistics. With applications in Wireless communications, Artificial intelligence, and Decision making.
+Prior to this, I completed my master's from IIT GUWAHATI in CSE/Data Science.
 
+Good understanding of the software development process, as well as exposure to various methodologies such as agile. My interests are in backend development and Data Science.
+
+<!-- Apart from academics, I enjoy watching web series and cricket, and I like to play badminton and sometimes watch geopolitics events.
 <!-- Apart from academics, I love to travel. Also i enjoy watching TV series, cricket and I like to play badminton and table tennis. -->
-Apart from academics, I have a strong passion for traveling and exploring new places. In my leisure time, I find joy in watching TV series and following cricket. I also actively engage in playing badminton and table tennis, as they help me stay active and maintain a healthy lifestyle.
+<!-- Apart from academics, I have a strong passion for traveling and exploring new places. In my leisure time, I find joy in watching TV series and following cricket. I also actively engage in playing badminton and table tennis, as they help me stay active and maintain a healthy lifestyle. --> -->
 
 <!-- [Resume draft 2.0](http://mohit-iitb.github.io/files/19307R004-4.pdf) \\ -->
 <!-- [Resume draft 1.0](http://mohit-iitb.github.io/files/mohit_wireless_2page.pdf) \\ -->

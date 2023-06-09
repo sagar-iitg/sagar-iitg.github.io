@@ -21,7 +21,7 @@ Apart from academics, I enjoy watching web series and cricket, and I like to pla
 
 [Resume]({{ site.url }}/files/Resume_SagarKumar.pdf)
 
-(Updated June 2023)
+(Updated June  2023)
 
 
 
